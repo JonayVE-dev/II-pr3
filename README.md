@@ -48,7 +48,7 @@ Script: [ejer3.cs](scripts/ejer3.cs)
 
 5. Adapta el movimiento en el ejercicio 4 para que sea proporcional al tiempo transcurrido durante la generación del frame.
 
-![Ejercicio4y5](gifs/ejercicio4.gif)
+![Ejercicio4y5](gifs/ejercicio4y5.gif)
 
 Script: [ejer4y5.cs](scripts/ejer4y5.cs)
 
