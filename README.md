@@ -90,7 +90,7 @@ Script: [ejer9-10-11.cs](scripts/ejer9-10-11.cs)
 
 12. Agrega un cilindro de un color diferente al que ya hay en la escena y configúralo como un objeto físico. Selecciona un conjunto de teclas que te permitan controlar su movimiento por la escena y prográmale un movimiento que permita dirigirlo hacia la esfera.
 
-![Ejercicio12](gifs/Ejercicio12.gif) 
+![Ejercicio12](gifs/ejercicio12.gif) 
 
 Script: [ejer12.cs](scripts/ejer12.cs)
 
